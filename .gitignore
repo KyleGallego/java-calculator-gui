@@ -1,0 +1,12 @@
+# Compiled class files
+*.class
+
+# IDE-generated files
+*.classpath
+*.project
+*.settings
+
+# Other files that you don't want to track
+*.log
+*.tmp
+*.swp
